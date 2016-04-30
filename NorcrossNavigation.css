@@ -9,9 +9,6 @@
 .clearfix:after {
     clear: both;
 }
-.clearfix {
-    *zoom: 1;
-}
 nav {
 	position:relative;
 	text-align:left;
@@ -20,7 +17,6 @@ nav {
 	background-color:#442500;
 	height:auto;
 	padding:15px 15px 25px 7px;
-	width:100%;
 }
 nav ul {
 	width:900px;
