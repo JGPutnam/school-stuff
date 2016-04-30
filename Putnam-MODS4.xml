@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <identifier>JFKPOF-Goodwin-documents</identifier>
+    <abstract>This is a paper written by an anonymous person detailing the situation in Cuba roughly around 1960 when Fidel Castro represented a potentially significant threat to the United States.  It discusses something called the "Revolutionary Democratic Front" and how that group opposed Castro and his regime.  Also, it discusses how the group desired greater support from the United States in their opposition to Castro but in such a way as not to undermine their image in the eyes of their own people.</abstract>
+    <titleInfo>
+        <title>Papers of John F. Kennedy.</title>
+        <partName>Presidential Papers.</partName>
+        <partName>President's Office Files.</partName>
+        <partName>Special Correspondence.</partName>
+        <partName>Goodwin, Richard, November 1960-August 1962</partName>
+    </titleInfo>
+    <originInfo>
+        <dateModified encoding="iso8601">2007-08-22</dateModified>
+        <dateCreated>November 1960-August 1962</dateCreated>
+        <dateOther>August 15 1962</dateOther>
+        <publisher>John F. Kennedy Library (Boston, MA) Contact: John F. Kennedy Library (NLJFK), Columbia Point, Boston, MA 02125-3398 Phone:617-514-1600, Fax:617-514-1652, Email: kennedy.library@nara.gov</publisher>
+    </originInfo>
+    <physicalDescription>
+        <note>This folder contains correspondence collected by the office of President John F. Kennedy's secretary, Evelyn Lincoln, from assistant Special Counsel to the President and Deputy Assistant Secretary of State for Inter-American Affairs Richard N. Goodwin. Materials mainly represent Goodwin's views and advice on foreign affairs and political matters. Of note is a letter to then Senator John F. Kennedy from Goodwin, at the time a member of Kennedy's speech writing staff, which includes as attachments a list of campaign promises made my Kennedy during the 1960 presidential campaign and a memorandum regarding Cuban opposition groups to Fidel Castro.</note>
+        <note>Every effort has been made to digitize materials in a way that accurately refelects the arrangement and condition of the originals. Duplicate items are replicated in the digital file. Becasue efforts were made to preserve the appearance of the original documents, digital images reflect the items' physical condition as well. Photocopies of materials were scanned only when deteriorating originals were discarded. The digital image has been modified only to reflect the appearance of the original print as is possible. No other enhancements have been made. Items that are widely available, such as major news or government pulications, have not been digitized in entirety. Items protected by copyright law have been partically redacted. Every effort has been made to make citation information and annotations availabel to the researcher in materials that have not been scanned or have been redacted.</note>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <form>23 digital pages</form>
+    </physicalDescription>
+    <subject>
+        <topic>Advice and Counsel to the President</topic>
+        <topic>International relations</topic>
+        <name>
+            <namePart>Dr. Raul Chibas</namePart>
+            <role>
+                <roleTerm>Former Director of private military school in Havana and past president of the Orthodox Party</roleTerm>
+            </role>
+        </name>
+        <name>
+            <namePart>Fidel Castro</namePart>
+            <role>
+                <roleTerm>Communist Party Leader</roleTerm>
+            </role>
+        </name>
+        <name>
+            <namePart>Rafael Diaz balart</namePart>
+            <role>
+                <roleTerm>Leader of the White Rose Group</roleTerm>
+            </role>
+        </name>
+        <name>
+            <namePart>Dr. Tony Varona</namePart>
+            <role>
+                <roleTerm>Coordinator of the Revolutionary Democratic Front</roleTerm>
+            </role>
+        </name>
+        <name>
+            <namePart>Dr. Aureliano Sanchez Arango</namePart>
+            <role>
+                <roleTerm>Founder of the Revolutionary Democratic Front</roleTerm>
+            </role>
+        </name>
+        <name>
+            <namePart>Manuel Ray</namePart>
+            <role>
+                <roleTerm>Minister of Public Works and head of resistance against Batista (briefly)</roleTerm>
+            </role>
+        </name>
+    </subject>
+    <typeOfResource>text</typeOfResource>
+    <language>
+        <languageTerm>English</languageTerm>
+    </language>
+    <part>
+        <text>Formerly called the "VIP Alpha" series, the Special Correspondence series is a unique collection of letters and memoranda received by the President from distinguished public figures and close friends.  Material may be found filed by name of correspondent or by person discussed in the correspondence, the criteria being inconsistent at the time of filing. There are three kinds of items: notes and letters from or concerning the President's family and friends; correspondence from members of the President's staff, advisers and non-government officials; and letters from prominent public figures.  Former presidents, foreign heads of state, religious leaders, distinguished Congressmen, and well-known artists and writers are among those whose letters were placed in this series by Mrs. Lincoln. Of particular interest are letters from Herbert Hoover, Harry Truman, Dwight Eisenhower, Winston Churchill, Eleanor Roosevelt, Pope John XXIII, Pope Paul VI, Pablo Casals, and Robert Frost.  For the most part, this material is of an unofficial nature, and represents the personal feelings, thoughts and dvice of the writers on matters not falling under official responsibilities. The Special Correspondence series is arranged alphabetically by name of correspondent. See also Series 1. General Corresponence, Series 6. Staff Memoranda, Series 9. Countries, and the Series 7. Departments and Agencies. Users should also refer to the White House Name Files in seeking all correspondence from a particular person.</text>
+    </part>
+</mods>

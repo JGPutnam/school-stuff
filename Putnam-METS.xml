@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis.xsd"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:mets="http://www.loc.gov/METS/"
+    xmlns:premis="http://www.loc.gov/standards/premis/">
+    <mets:metsHdr CREATEDATE="2015-04-21T16:25:00" LASTMODDATE="2015-04-23T18:14:00">
+        <mets:agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+            <mets:name>James Putnam, Simmons College, Gradutate School of Library and Information Science</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+    <mets:dmdSec ID="dmd1">
+        <mets:mdWrap MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods ID="Mods1">
+                    <mods:identifier>JFKPOF-Goodwin-documents</mods:identifier>
+                    <mods:titleInfo>
+                        <mods:title>Papers of John F. Kennedy.</mods:title>
+                        <mods:partName>Presidential Papers.</mods:partName>
+                        <mods:partName>President's Office Files.</mods:partName>
+                        <mods:partName>Special Correspondence.</mods:partName>
+                        <mods:partName>Goodwin, Richard, November 1960-August 1962</mods:partName>
+                    </mods:titleInfo>
+                    <mods:typeOfResource>text</mods:typeOfResource>
+                    <mods:originInfo>
+                        <mods:dateModified encoding="iso8601">2007-08-22</mods:dateModified>
+                        <mods:dateCreated>November 1960-August 1962</mods:dateCreated>
+                        <mods:publisher>John F. Kennedy Library (Boston, MA) Contact: John F. Kennedy Library (NLJFK), Columbia Point, Boston, MA 02125-3398 Phone:617-514-1600, Fax:617-514-1652, Email: kennedy.library@nara.gov</mods:publisher>
+                    </mods:originInfo>
+                    <mods:physicalDescription>
+                        <mods:note>This folder contains correspondence collected by the office of President John F. Kennedy's secretary, Evelyn Lincoln, from assistant Special Counsel to the President and Deputy Assistant Secretary of State for Inter-American Affairs Richard N. Goodwin. Materials mainly represent Goodwin's views and advice on foreign affairs and political matters. Of note is a letter to then Senator John F. Kennedy from Goodwin, at the time a member of Kennedy's speech writing staff, which includes as attachments a list of campaign promises made my Kennedy during the 1960 presidential campaign and a memorandum regarding Cuban opposition groups to Fidel Castro.</mods:note>
+                        <mods:note>Every effort has been made to digitize materials in a way that accurately refelects the arrangement and condition of the originals. Duplicate items are replicated in the digital file. Becasue efforts were made to preserve the appearance of the original documents, digital images reflect the items' physical condition as well. Photocopies of materials were scanned only when deteriorating originals were discarded. The digital image has been modified only to reflect the appearance of the original print as is possible. No other enhancements have been made. Items that are widely available, such as major news or government pulications, have not been digitized in entirety. Items protected by copyright law have been partically redacted. Every effort has been made to make citation information and annotations availabel to the researcher in materials that have not been scanned or have been redacted.</mods:note>
+                        <mods:digitalOrigin>digitized other analog</mods:digitalOrigin>
+                        <mods:form>23 digital pages</mods:form>
+                    </mods:physicalDescription>
+                    <mods:subject>
+                        <mods:topic>Advice and Counsel to the President</mods:topic>
+                        <mods:topic>International relations</mods:topic>
+                    </mods:subject>
+                    <mods:language>
+                        <mods:languageTerm>English</mods:languageTerm>
+                    </mods:language>
+                    <mods:part>
+                        <mods:text>Formerly called the "VIP Alpha" series, the Special Correspondence series is a unique collection of letters and memoranda received by the President from distinguished public figures and close friends.  Material may be found filed by name of correspondent or by person discussed in the correspondence, the criteria being inconsistent at the time of filing. There are three kinds of items: notes and letters from or concerning the President's family and friends; correspondence from members of the President's staff, advisers and non-government officials; and letters from prominent public figures.  Former presidents, foreign heads of state, religious leaders, distinguished Congressmen, and well-known artists and writers are among those whose letters were placed in this series by Mrs. Lincoln. Of particular interest are letters from Herbert Hoover, Harry Truman, Dwight Eisenhower, Winston Churchill, Eleanor Roosevelt, Pope John XXIII, Pope Paul VI, Pablo Casals, and Robert Frost.  For the most part, this material is of an unofficial nature, and represents the personal feelings, thoughts and dvice of the writers on matters not falling under official responsibilities. The Special Correspondence series is arranged alphabetically by name of correspondent. See also Series 1. General Corresponence, Series 6. Staff Memoranda, Series 9. Countries, and the Series 7. Departments and Agencies. Users should also refer to the White House Name Files in seeking all correspondence from a particular person.</mods:text>
+                    </mods:part>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:amdSec>
+        <mets:techMD ID="PREMIS">
+            <mets:mdWrap MDTYPE="PREMIS">
+                <mets:xmlData>
+                    <premis:software>
+                        <premis:swName>Application Xtender</premis:swName>
+                        <premis:swType>document management</premis:swType>
+                    </premis:software>
+                    <premis:software>
+                        <premis:swName>Microsoft Windows</premis:swName>
+                        <premis:swVersion>XP</premis:swVersion>
+                        <premis:swType>Operating System</premis:swType>
+                    </premis:software>
+                    <premis:hardware>
+                        <premis:hwName>Dell Optiplex GX620</premis:hwName>
+                        <premis:hwType>computer</premis:hwType>
+                    </premis:hardware>
+                    <premis:hardware>
+                        <premis:hwName>Intel Pentium 4</premis:hwName>
+                        <premis:hwType>Processor</premis:hwType>
+                        <premis:hwOtherInformation>2.80 GHz/2.00 GB RAM</premis:hwOtherInformation>
+                    </premis:hardware>
+                    <premis:hardware>
+                        <premis:hwName>Fujitsu fi-5705C</premis:hwName>
+                        <premis:hwType>Image Scanner</premis:hwType>
+                        <premis:hwOtherInformation>Connected to a Kofax Adrenaline 650i PCI image
+                            Processing board using a SCSI 3 connection</premis:hwOtherInformation>
+                    </premis:hardware>
+                    <premis:format>
+                        <premis:formatDesignation>
+                            <premis:formatName>image/tiff</premis:formatName>
+                        </premis:formatDesignation>
+                    </premis:format>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:techMD>
+        <mets:rightsMD ID="GOODWINFILES">
+            <mets:mdWrap MDTYPE="PREMIS:RIGHTS">
+                <mets:xmlData>
+                   <copyrightNote xmlns="info:lc/xmlns/premis-v2">Documents in this collection that were prepared by officials of the United States as part of their official duties are in the public domain. Some of the archival materials in this collection may be subject to copyright or other intellectual property restrictions. Users of these materials are advised to determine the copyright status of any document from which they wish to publish. The copyright law of the United States (Title 17, United States Code) governs the making of photocopies or other reproductions of copyrighted material. Under certain conditions specified in the law, libraries and archives are authorized to furnish a photocopy or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excesses of "fair use," that user may be liable for copyright infringement. This institution reserves the right to refuse to accept a copying order if, in its judgement, fulfillment of the order would involve violation of copyright law. The copyright law extends its protection to unpublished works from the moment of creation in a tangible form.</copyrightNote>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+    </mets:amdSec>
+    <mets:fileSec ID="Goodwinfiles">
+        <mets:fileGrp>
+            <mets:file ID="GPA" MIMETYPE="TIFF Image" USE="Master Image">
+                <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="#goodwin-paradeArticle.tiff" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp>
+            <mets:file ID="GPA2" MIMETYPE="TIFF Image" USE="Master image">
+                <mets:FLocat LOCTYPE="OTHER" xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="#goodwin-paradeArticle2.tiff"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp>
+            <mets:file ID="GPA3" MIMETYPE="TIFF Image" USE="Master image">
+                <mets:FLocat LOCTYPE="OTHER" xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="#goodwin-paradeArticle3.tiff"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp>
+            <mets:file ID="GPA4" MIMETYPE="TIFF Image" USE="Master image">
+                <mets:FLocat LOCTYPE="OTHER" xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="#goodwin-paradeArticle4.tiff"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap>
+        <mets:div>
+            <mets:fptr FILEID="GPA"/>
+            <mets:fptr FILEID="GPA2"/>
+            <mets:fptr FILEID="GPA3"/>
+            <mets:fptr FILEID="GPA4"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
+<!--For this record, I decided to use the Goodwin-parade article simply because I felt it fit the needs and requirements of the assignment fairly well.  I tried to adhere to the guidelines of the assignment as best as I could as well as the guidelines of the METS records themsevles.  I wasn't super happy with the way the Filesec turned out (I wanted to look a little more structured and monochromatic but I guess that's the way it's supposed to look.  I thought about associating the MIX schema as well in this assignment but decided against it when I realized that I could include all the software and hardware using only the PREMIS schema.  I also decided not to include the .JPG files in the fileSec because I'm pretty sure only master images (in other words "TIFF" files) are needed in a record such as this one.  I think I have created a well-rounded record here with a fairly good level of granularity and detail and I hope you think so too.-->
