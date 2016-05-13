@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bikes>
+<bikeName id="0001">
+<bikename>GT</bikename>
+<model>Fury Elite</model>
+<modelspecs>
+<numberofgears>9</numberofgears>
+<biketype>Mountain</biketype>
+</modelspecs>
+<bikespecs>
+<color>White</color>
+<specialfeatures>discbrakes</specialfeatures>
+<constructionmaterial>Aluminum Alloy</constructionmaterial>
+</bikespecs>
+<retailinfo>
+<bikeprice>$3360</bikeprice>
+<availableforpurchaseat>online</availableforpurchaseat>
+</retailinfo>
+<rideable>yes</rideable>
+</bikeName>
+<bikeName id="0002">
+<bikename>Mongoose</bikename>
+<model>Meteore Expert</model>
+<modelspecs>
+<numberofgears>10</numberofgears>
+<biketype>Mountain</biketype>
+</modelspecs>
+<bikespecs>
+<color>Red</color>
+<specialfeatures>discbrakes</specialfeatures>
+<constructionmaterial>Aluminum Alloy</constructionmaterial>
+</bikespecs>
+<retailinfo>
+<bikeprice>$2499</bikeprice>
+<availableforpurchaseat>online</availableforpurchaseat>
+</retailinfo>
+<rideable>yes</rideable>
+</bikeName>
+</bikes>
