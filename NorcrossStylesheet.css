@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url(satori2880.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+p {
+	line-height:30px;
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight:lighter;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight:bold;
+	text-shadow:3px 3px #000000;
+}
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size:28px;
+}
+header {
+	color:#442500;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	color: #fff;
+	text-align:center;
+	padding:5px;
+}
+section {
+	width:45%;
+	float:left;
+	background-image:url(http://i371.photobucket.com/albums/oo160/DazzlingSwing/semi-transparent.png);
+	background-repeat:repeat;
+	border:2px solid;
+	border-radius: 30px;
+	color:#FF6;
+	padding:20px;
+}
+section img {
+	width:320px;
+	height:200px;
+}
+article {
+	background-image:url(http://i371.photobucket.com/albums/oo160/DazzlingSwing/semi-transparent.png);
+	background-repeat:repeat;
+	border:2px solid;
+	border-radius: 30px;
+	color:#FF6;
+	padding:20px;
+	height:100%;
+	min-height:270px;
+}
+article h1 {
+	font-family: 'Raleway', sans-serif;
+	text-align:center;
+}
+article img {
+	margin:10px 10px 10px 10px;
+	float:left;
+	width:400px;
+	height:259px;
+}
+aside {
+	width:45%;
+	float:left;
+	margin:5px;
+	background-image:url(http://i371.photobucket.com/albums/oo160/DazzlingSwing/semi-transparent.png);
+	background-repeat:repeat;
+	border:2px solid;
+	border-radius: 30px;
+	color:#FF6;
+	padding:20px;
+}
+footer {
+	color:white;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+footer img {
+	margin-left:10px;
+	margin-right:10px;
+}
+@media all and (max-width:980px) {
+	section {
+		margin:10px;
+		width:40%;
+}
+	aside {
+		margin:10px;
+		width:40%;
+	}
+	footer img {
+		display:none;
+	}
+	section img {
+		width:100%;
+		height:auto;
+}
+}
+@media all and (max-width:600px) {
+	section {
+		padding: 2px;
+		margin:7px;
+		width:100%;
+	}
+	aside {
+		padding:2px;
+		margin:7px;
+		width:100%;
+	}
+	footer img {
+		display:none;
+	}
+	section img {
+		width:320px;
+		height:200px;
+}
+}
+@media all and (max-width:480px) {
+	section {
+		float:none;
+		width:90%;
+		padding:5px;
+		margin:0;
+}
+	header {
+		background-image:url(satori640.jpg);
+}
+	aside {
+		float:none;
+		width:90%;
+		padding:5px;
+		margin:0;
+	}
+	article img {
+		width:100%;
+		height:auto;
+		margin:8px auto;
+	}
+	article {
+		width:90%;
+	}
+	body {
+		background-image:none;
+		background-color:#D2B384;
+	}
+	footer img {
+		display:none;
+	}
+	section img {
+		width:100%;
+		height:auto;
+		margin-right:5px;
+}
+}

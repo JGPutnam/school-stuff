@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>
+  $(function() {
+   var pull   = $('#pull');
+    menu   = $('nav ul');
+    menuHeight = menu.height();
+
+   $(pull).on('click', function(e) {
+    e.preventDefault();
+    menu.slideToggle();
+   });
+
+   $(window).resize(function(){
+          var w = $(window).width();
+          if(w > 320 && menu.is(':hidden')) {
+           menu.removeAttr('style');
+          }
+      });
+  });
+ </script>
+<title>Norcross Wildlife Sanctuary & Foundation</title>
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href="NorcrossStylesheet.css" rel="stylesheet" type="text/css">
+<link href="NorcrossNavigation.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header>
+<h1>Norcross Wildlife Sanctuary <br>& <br>Foundation</h1>
+</header>
+<nav class="clearfix">
+<ul class="clearfix">
+<li><a href="NorcrossHomepage.html">Home</a></li>
+<li><a href="http://www.google.com" target="_blank">Foundation</a></li>
+<li><a href="http://www.google.com" target="_blank">Programs</a></li>
+<li><a href="http://www.google.com" target="_blank">Contact</a></li>
+<li><a href="Aboutus.html">About Us</a></li>
+<li><a href="http://www.google.com" target="_blank">Links</a></li>
+</ul>
+<a href="#" id="pull"></a></nav>
+<section>
+<h2>The Sanctuary</h2>
+<p>Starting with a 100 acre woodlot, our founder and benefactor, Monson, MA native Arthur D Norcross bought, bartered and traded to amass over 2000 acres he dubbed the Tupper Hill Sanctuary.  And while it has grown to over 8000 acres of forests, meadows and wildlands we manage and maintain the land for the benefit of native plants and animals of New England, as Mr. Norcross directed. 
+
+We are honored to continue this work and recognize that preserving these special places not only benefits the wild things that need such places to survive but we also support the biodiversity humans require to thrive. 
+
+We hope you’ll find time this year to come join us for a lecture, a tour or a walk through our gardens and learn why we think this is a special place. 
+<br>
+Karen Outlaw, Executive Director <br><img src="marblesalsm.jpg" alt="Lizard"/></p>
+</section>
+<aside>
+<h2>The Foundation</h2>
+<p>The Foundation established a pattern of placing grants with organizations that ask for specific amounts to purchase and protect land, build nature centers and trails, print and distribute educational materials, provide services to clients and conduct ground-level program activities.  The Foundation has provided funding for items as mundane but useful as septic systems for one organization and erosion-preventing sandbags for an aboriginal archeological site on the flooding upper Mississippi.  Not surprisingly, with the dawn of the technology age, much of our funding over the past 20 years has been in support of technological tools that NGOs use in their daily work such as computers, printers, cameras and GPS units. </p>
+</aside>
+<footer><a href="http://www.facebook.com" target="_blank"><img src="facebook-icon.png" alt="Facebook"></a><a href="http://www.twitter.com" target="_blank"><img src="twitter-32.png" alt="Twitter"></a>Address: 30 Peck Road, Wales, MA 01081 Phone: (413)267-9654</footer>
+</body>
+</html>
