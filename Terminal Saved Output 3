@@ -1,0 +1,156 @@
+Last login: Wed Oct 29 11:24:41 on ttys001
+dhcp-159-145:~ putnamj$ cd /users/putnamj/downloads/programDemos-1
+dhcp-159-145:programDemos-1 putnamj$ java searcher demo.xml name
+<name>
+    <last_name>
+        Smith
+    </last_name>
+    <first_name>
+        Nancy
+    </first_name>
+</name>
+<name>
+    <last_name>
+        Barden
+    </last_name>
+    <first_name>
+        Gil
+    </first_name>
+</name>
+<name>
+    <last_name>
+        Cat
+    </last_name>
+    <first_name>
+        Bix
+    </first_name>
+</name>
+<name>
+    <last_name>
+        Magro
+    </last_name>
+    <first_name>
+        Susan
+    </first_name>
+</name>
+<name>
+    <last_name>
+        David
+    </last_name>
+    <first_name>
+        Jason
+    </first_name>
+</name>
+<name>
+    <last_name>
+        Simpson
+    </last_name>
+    <first_name>
+        Homer
+    </first_name>
+</name>
+dhcp-159-145:programDemos-1 putnamj$ javac navSax.java
+dhcp-159-145:programDemos-1 putnamj$ java navSax meetings.xml
+*******************
+**** Third name: Nancy Smith
+dhcp-159-145:programDemos-1 putnamj$ java navSax meetings.xml Bix
+User name = Bix
+*******************
+***** HIT - Record 1
+dhcp-159-145:programDemos-1 putnamj$ javac XMLWriter.java
+dhcp-159-145:programDemos-1 putnamj$ java XMLWriter customer.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+    <CUSTOMER>
+        <NAME>
+            <LAST_NAME>
+            </LAST_NAME>
+            <FIRST_NAME>
+            </FIRST_NAME>
+            <MIDDLE_NAME>
+            </MIDDLE_NAME>
+        </NAME>
+        <DATE>
+        </DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>
+                </PRODUCT>
+                <NUMBER>
+                </NUMBER>
+                <PRICE>
+                </PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>
+                </PRODUCT>
+                <NUMBER>
+                </NUMBER>
+                <PRICE>
+                </PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+    <CUSTOMER>
+        <NAME>
+            <LAST_NAME>
+            </LAST_NAME>
+            <FIRST_NAME>
+            </FIRST_NAME>
+            <MIDDLE_NAME>
+            </MIDDLE_NAME>
+        </NAME>
+        <DATE>
+        </DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>
+                </PRODUCT>
+                <NUMBER>
+                </NUMBER>
+                <PRICE>
+                </PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>
+                </PRODUCT>
+                <NUMBER>
+                </NUMBER>
+                <PRICE>
+                </PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+    <CUSTOMER>
+        <NAME>
+            <LAST_NAME>
+            </LAST_NAME>
+            <FIRST_NAME>
+            </FIRST_NAME>
+            <MIDDLE_NAME>
+            </MIDDLE_NAME>
+        </NAME>
+        <DATE>
+        </DATE>
+        <ORDERS>
+            <ITEM>
+                <PRODUCT>
+                </PRODUCT>
+                <NUMBER>
+                </NUMBER>
+                <PRICE>
+                </PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>
+                </PRODUCT>
+                <NUMBER>
+                </NUMBER>
+                <PRICE>
+                </PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+</DOCUMENT>
+File done!
+dhcp-159-145:programDemos-1 putnamj$ 

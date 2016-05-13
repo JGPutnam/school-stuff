@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Murakamistylesheet.xsl"?>
+<MurakamisPublishingHistory>
+	<book>
+		<title>Hear the Wind Sing</title>
+		<translator>Alfred Birnbaum</translator>
+		<publisher>Kodansha</publisher>
+		<numberofpages>165</numberofpages>
+		<datepublished>1987</datepublished>
+		<ISBNCatalognumber>4-06-186026-78</ISBNCatalognumber>
+		<price>$290.00</price>
+		<Awards>Gunzo Literature Prize</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Pinball, 1973</title>
+		<translator>Alfred Birnbaum</translator>
+		<publisher>Kodansha International</publisher>
+		<numberofpages>215</numberofpages>
+		<datepublished>1985</datepublished>
+		<ISBNCatalognumber>4-06-186012-7</ISBNCatalognumber>
+		<price>$250.00</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>A Wild Sheep Chase</title>
+		<translator>Alfred Birnbaum</translator>
+		<publisher>Kodansha International</publisher>
+		<numberofpages>299</numberofpages>
+		<datepublished>1991</datepublished>
+		<ISBNCatalognumber>0-87011-905-2</ISBNCatalognumber>
+		<price>$10.35</price>
+		<Awards>Noma Literary Newcomer's Prize</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Hard-boiled Wonderland and the End of the World</title>
+		<translator>Alfred Birnbaum</translator>
+		<publisher>Kodansha International</publisher>
+		<numberofpages>400</numberofpages>
+		<datepublished>1991</datepublished>
+		<ISBNCatalognumber>4-7700-1544-5</ISBNCatalognumber>
+		<price>$10.24</price>
+		<Awards>Tanizaki Prize</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Norwegian Wood</title>
+		<translator>Alfred Birnbaum</translator>
+		<publisher>Kodansha</publisher>
+		<numberofpages>296</numberofpages>
+		<datepublished>2000</datepublished>
+		<ISBNCatalognumber>0-375-70402-7</ISBNCatalognumber>
+		<price>$8.48</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Dance Dance Dance</title>
+		<translator>Alfred Birnbaum</translator>
+		<publisher>Kodansha International</publisher>
+		<numberofpages>393</numberofpages>
+		<datepublished>1994</datepublished>
+		<ISBNCatalognumber>4-7700-1683-2</ISBNCatalognumber>
+		<price>$12.84</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>South of the Border, West of the Sun</title>
+		<translator>Philip Gabriel</translator>
+		<publisher>Kodansha</publisher>
+		<numberofpages>192</numberofpages>
+		<datepublished>1999</datepublished>
+		<ISBNCatalognumber>0-09-944857-2</ISBNCatalognumber>
+		<price>$12.37</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>The Wind-up Bird Chronicle</title>
+		<translator>Jay Rubin</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>607</numberofpages>
+		<datepublished>1997</datepublished>
+		<ISBNCatalognumber>0-679-77543-9</ISBNCatalognumber>
+		<price>$9.57</price>
+		<Awards>Yomiuri Literary Award</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Sputnik Sweetheart</title>
+		<translator>Philip Gabriel</translator>
+		<publisher>Kodansha</publisher>
+		<numberofpages>229</numberofpages>
+		<datepublished>2001</datepublished>
+		<ISBNCatalognumber>1-86046-825-X</ISBNCatalognumber>
+		<price>$11.98</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Kafka on the Shore</title>
+		<translator>Philip Gabriel</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>480</numberofpages>
+		<datepublished>2005</datepublished>
+		<ISBNCatalognumber>1-84343-110-6</ISBNCatalognumber>
+		<price>$11.38</price>
+		<Awards>World Fantasy Award</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>After Dark</title>
+		<translator>Jay Rubin</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>256</numberofpages>
+		<datepublished>2007</datepublished>
+		<ISBNCatalognumber>0-307-26583-8</ISBNCatalognumber>
+		<price>$12.10</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>1Q84</title>
+		<translator>Jay Rubin, Philip Gabriel</translator>
+		<publisher>Knopf</publisher>
+		<numberofpages>928</numberofpages>
+		<datepublished>2011</datepublished>
+		<ISBNCatalognumber>978-0-307-59331-3</ISBNCatalognumber>
+		<price>$9.57</price>
+		<Awards>Man Asian Literary Prize</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Colorless Tsukuru Tazaki and His Years of Pilgrimage</title>
+		<translator>Philip Gabriel</translator>
+		<publisher>Knopf</publisher>
+		<numberofpages>400</numberofpages>
+		<datepublished>2014</datepublished>
+		<ISBNCatalognumber>978-0-385-35210-9</ISBNCatalognumber>
+		<price>$15.57</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+</MurakamisPublishingHistory>

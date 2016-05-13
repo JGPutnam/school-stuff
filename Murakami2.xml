@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Murakamistylesheet2.xsl"?>
+<MurakamisPublishingHistory>
+	<book>
+		<title>The Elephant Vanishes</title>
+		<translator>Alfred Birnbaum, Jay Rubin</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>336</numberofpages>
+		<datepublished>1994</datepublished>
+		<ISBNCatalognumber>0-679-42057-6</ISBNCatalognumber>
+		<price>$12.93</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>After the quake</title>
+		<translator>Jay Rubin</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>147</numberofpages>
+		<datepublished>2003</datepublished>
+		<ISBNCatalognumber>0-375-41390-1</ISBNCatalognumber>
+		<price>$11.22</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>Blind Willow, Sleeping Woman</title>
+		<translator>Philip Gabriel, Jay Rubin</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>384</numberofpages>
+		<datepublished>2007</datepublished>
+		<ISBNCatalognumber>1-4000-4461-8</ISBNCatalognumber>
+		<price>$11.93</price>
+		<Awards>Frank O'Connor International Short Story Award, Kiriyama Prize</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+</MurakamisPublishingHistory>

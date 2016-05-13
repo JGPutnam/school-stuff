@@ -1,0 +1,102 @@
+Last login: Wed Oct 29 11:22:05 on ttys000
+dhcp-159-145:~ putnamj$ cd /Users/putnamj/downloads/programDemos-1
+dhcp-159-145:programDemos-1 putnamj$ javac circles.java
+Note: circles.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+dhcp-159-145:programDemos-1 putnamj$ javac circles.java -Xlint
+circles.java:82: warning: [deprecation] show() in java.awt.Window has been deprecated
+		f.show();
+		 ^
+circles.java:42: warning: [cast] redundant cast to java.lang.String
+				x[numberFigures] = Integer.parseInt((String)attrs.getNamedItem("X").getNodeValue());
+				                                    ^
+circles.java:44: warning: [cast] redundant cast to java.lang.String
+					Integer.parseInt((String)attrs.getNamedItem("Y").getNodeValue());
+					                 ^
+circles.java:46: warning: [cast] redundant cast to java.lang.String
+					Integer.parseInt((String)attrs.getNamedItem("RADIUS").getNodeValue());
+					                 ^
+circles.java:55: warning: [cast] redundant cast to java.lang.String
+				x[numberFigures] = Integer.parseInt((String)attrs.getNamedItem("X").getNodeValue());
+				                                    ^
+circles.java:57: warning: [cast] redundant cast to java.lang.String
+					Integer.parseInt((String)attrs.getNamedItem("Y").getNodeValue());
+					                 ^
+circles.java:59: warning: [cast] redundant cast to java.lang.String
+					Integer.parseInt((String)attrs.getNamedItem("RADIUS").getNodeValue());
+					                 ^
+circles.java:86: warning: [serial] serializable class AppFrame has no definition of serialVersionUID
+class AppFrame extends Frame {
+^
+8 warnings
+dhcp-159-145:programDemos-1 putnamj$ java circles circles.xml
+dhcp-159-145:programDemos-1 putnamj$ javac searcher.java
+dhcp-159-145:programDemos-1 putnamj$ java searcher demo.xml ITEM | more
+<ITEM>
+    <product>
+        Tomatoes
+    </product>
+    <number>
+        8
+    </number>
+    <price>
+        $.50
+    </price>
+</ITEM>
+<ITEM>
+    <product>
+        Apples
+    </product>
+    <number>
+        18
+    </number>
+    <price>
+        $1.00
+    </price>
+</ITEM>
+<ITEM>
+    <product>
+        Mice
+    </product>
+    <number>
+        2
+    </number>
+    <price>
+        $1.39
+    </price>
+</ITEM>
+<ITEM>
+    <product>
+        Apricots
+    </product>
+    <number>
+        12
+    </number>
+    <price>
+        $.23
+    </price>
+</ITEM>
+<ITEM>
+    <product>
+        Ice Cream
+    </product>
+    <number>
+        1
+    </number>
+    <price>
+        $3.95
+    </price>
+</ITEM>
+<ITEM>
+    <product>
+        Duff
+    </product>
+    <number>
+        6
+    </number>
+    <price>
+        $4.50
+    </price>
+</ITEM>
+dhcp-159-145:programDemos-1 putnamj$ 
+dhcp-159-145:programDemos-1 putnamj$ 

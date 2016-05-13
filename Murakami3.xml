@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Murakamistylesheet3.xsl"?>
+<MurakamisPublishingHistory>
+	<book>
+		<title>Underground: The Tokyo Gas Attack and the Japanese Psyche</title>
+		<translator>Alfred Birnbaum, Philip Gabriel</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>366</numberofpages>
+		<datepublished>2001</datepublished>
+		<ISBNCatalognumber>0-375-72580-6</ISBNCatalognumber>
+		<price>$12.59</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+	<book>
+		<title>What I Talk About When I Talk About Running</title>
+		<translator>Philip Gabriel</translator>
+		<publisher>Vintage</publisher>
+		<numberofpages>175</numberofpages>
+		<datepublished>2008</datepublished>
+		<ISBNCatalognumber>0-307-26919-1</ISBNCatalognumber>
+		<price>$9.60</price>
+		<Awards>none</Awards>
+		<availableforpurchaseat>Amazon.com</availableforpurchaseat>
+		<readable>yes</readable>
+	</book>
+</MurakamisPublishingHistory>

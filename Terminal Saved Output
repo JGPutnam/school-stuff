@@ -1,0 +1,168 @@
+Last login: Wed Oct 29 11:14:20 on console
+dhcp-159-145:~ putnamj$ cd /Users/putnamj/downloads/programDemos-1
+dhcp-159-145:programDemos-1 putnamj$ javac indentingParser.java
+dhcp-159-145:programDemos-1 putnamj$ java indentingParser demo.xml
+ <?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <customer>
+        <name>
+            <last_name>
+                Smith
+            </last_name>
+            <first_name>
+                Nancy
+            </first_name>
+        </name>
+        <date>
+            March 25, 2006
+        </date>
+        <orders>
+            <ITEM>
+                <product>
+                    Tomatoes
+                </product>
+                <number>
+                    8
+                </number>
+                <price>
+                    $.50
+                </price>
+            </ITEM>
+        </orders>
+    </customer>
+    <customer>
+        <name>
+            <last_name>
+                Barden
+            </last_name>
+            <first_name>
+                Gil
+            </first_name>
+        </name>
+        <date>
+            September 5, 2006
+        </date>
+        <orders>
+            <ITEM>
+                <product>
+                    Apples
+                </product>
+                <number>
+                    18
+                </number>
+                <price>
+                    $1.00
+                </price>
+            </ITEM>
+        </orders>
+    </customer>
+    <customer>
+        <name>
+            <last_name>
+                Cat
+            </last_name>
+            <first_name>
+                Bix
+            </first_name>
+        </name>
+        <date>
+            March 25, 1994
+        </date>
+        <orders>
+            <ITEM>
+                <product>
+                    Mice
+                </product>
+                <number>
+                    2
+                </number>
+                <price>
+                    $1.39
+                </price>
+            </ITEM>
+        </orders>
+    </customer>
+    <customer>
+        <name>
+            <last_name>
+                Magro
+            </last_name>
+            <first_name>
+                Susan
+            </first_name>
+        </name>
+        <date>
+            March 25, 2006
+        </date>
+        <orders>
+            <ITEM>
+                <product>
+                    Apricots
+                </product>
+                <number>
+                    12
+                </number>
+                <price>
+                    $.23
+                </price>
+            </ITEM>
+        </orders>
+    </customer>
+    <customer>
+        <name>
+            <last_name>
+                David
+            </last_name>
+            <first_name>
+                Jason
+            </first_name>
+        </name>
+        <date>
+            December 25, 2006
+        </date>
+        <orders>
+            <ITEM>
+                <product>
+                    Ice Cream
+                </product>
+                <number>
+                    1
+                </number>
+                <price>
+                    $3.95
+                </price>
+            </ITEM>
+        </orders>
+    </customer>
+    <customer>
+        <name>
+            <last_name>
+                Simpson
+            </last_name>
+            <first_name>
+                Homer
+            </first_name>
+        </name>
+        <date>
+            March 25, 2006
+        </date>
+        <orders>
+            <ITEM>
+                <product>
+                    Duff
+                </product>
+                <number>
+                    6
+                </number>
+                <price>
+                    $4.50
+                </price>
+            </ITEM>
+        </orders>
+    </customer>
+</document>
+dhcp-159-145:programDemos-1 putnamj$ javac browser.java
+Note: browser.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+dhcp-159-145:programDemos-1 putnamj$ java browser circles.xml
+dhcp-159-145:programDemos-1 putnamj$ 

@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<export>
+  <user>
+    <username>jgputnam</username>
+    <person>
+      <guid>b7068b36519d726b</guid>
+      <diaspora_handle>jgputnam@joindiaspora.com</diaspora_handle>
+      <url>https://joindiaspora.com/</url>
+      <profile>
+        <diaspora_handle>jgputnam@joindiaspora.com</diaspora_handle>
+        <first_name>James</first_name>
+        <last_name>Putnam</last_name>
+        <image_url>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_large_dc9417a112a42d411c17.jpg</image_url>
+        <image_url_small>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_dc9417a112a42d411c17.jpg</image_url_small>
+        <image_url_medium>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_medium_dc9417a112a42d411c17.jpg</image_url_medium>
+        <birthday>1983-02-20</birthday>
+        <gender>Male</gender>
+        <bio>Hi!  I'm James.  I'm in a difficult period in my life right now.  I like making things, listening to music, watching movies, reading books, writing, and successful undertakings.  I live in USA.  I want to publish my novel and write full time eventually.</bio>
+        <location>USA</location>
+        <searchable>true</searchable>
+        <nsfw>false</nsfw>
+        <tag_string>#smart #enthusiastic #shy #conscientious #artsy-fartsy </tag_string>
+      </profile>
+      <exported_key>-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEA3wV3lLjTlmMEIp04jLP8BKPiP6JxBoH8tppmf2hdC3+Zlh+hM/UD
+Gw6fKNj7nIEVazlsSYoSrooVjwnZ55F1HAvxPi2D6OTh4OF0O65ozoVn1bMDnNsQ
+bCrwS0fx96RLSlUorFumkqAasefGtFOkynh9wMXyfWxOmwW2S9ZApbuodHK6JjWd
+lXr2CJvoOe3B675cQK3zYlVyhi23iU81RTAXfmLQbC1eegu4PEu3AGMlGgeRF4CA
+9W3nT6MxxzFseH6YTRy9iNIRmwEeuTKudOjNkM4CUDlahvhHea1K5QtVu3B2AKjf
+v+e9UqhHT6Q1WujP84ASAaCjqM7Cb3cYbSpanYc6hR4ZgzNv6jWNow3CIxh7i7nu
+0xgjzyXBfOiypVBe5jDIEMF9gUOuUkdsuz4H4mDpkw99gdk3Z2qolIDqpVocI1RS
+ljwmnuFoIHtyKa1tZRNBuruQN4pb8LVOBlqHO2mPJfU3NBQyjA9NVD8XwpsncGA9
+nZG9KWtXDBw4QsKVwTMvfXb/hzj1FUDMXGFs00Y1uYjEo7PnPi4GahheoMMyrWxA
+IgOtLuiXJWMLrVw0ayNgFlbr61JmzzseRuLzi2uAcQctbuDsS9ZHHquCGnCBf5cV
+/WYFJOs7eCoY2DooiYx2xk3oV9ahs5pgxqid4sTt84bz4RwADLMOdPsCAwEAAQ==
+-----END RSA PUBLIC KEY-----
+</exported_key>
+    </person>
+  </user>
+  <aspects>
+    <aspect>
+      <name>Family</name>
+      <post_ids>
+        <post_id>285992</post_id>
+        <post_id>286002</post_id>
+        <post_id>287052</post_id>
+        <post_id>287057</post_id>
+        <post_id>287060</post_id>
+        <post_id>287663</post_id>
+        <post_id>287671</post_id>
+        <post_id>287676</post_id>
+        <post_id>287678</post_id>
+        <post_id>287681</post_id>
+        <post_id>287687</post_id>
+        <post_id>287691</post_id>
+        <post_id>287694</post_id>
+        <post_id>287720</post_id>
+        <post_id>287721</post_id>
+        <post_id>289265</post_id>
+        <post_id>289275</post_id>
+        <post_id>289281</post_id>
+        <post_id>289300</post_id>
+        <post_id>289301</post_id>
+        <post_id>289305</post_id>
+        <post_id>289309</post_id>
+        <post_id>289310</post_id>
+        <post_id>289311</post_id>
+        <post_id>289312</post_id>
+        <post_id>289318</post_id>
+        <post_id>290990</post_id>
+        <post_id>290993</post_id>
+        <post_id>290994</post_id>
+        <post_id>290996</post_id>
+        <post_id>291403</post_id>
+        <post_id>291973</post_id>
+        <post_id>291977</post_id>
+        <post_id>291983</post_id>
+        <post_id>291985</post_id>
+        <post_id>292833</post_id>
+        <post_id>292839</post_id>
+        <post_id>292861</post_id>
+        <post_id>292864</post_id>
+        <post_id>294037</post_id>
+        <post_id>294161</post_id>
+        <post_id>295122</post_id>
+        <post_id>296780</post_id>
+        <post_id>300724</post_id>
+        <post_id>301902</post_id>
+        <post_id>305436</post_id>
+        <post_id>305437</post_id>
+        <post_id>305595</post_id>
+        <post_id>311771</post_id>
+        <post_id>316673</post_id>
+        <post_id>316677</post_id>
+        <post_id>316954</post_id>
+        <post_id>322470</post_id>
+        <post_id>335993</post_id>
+        <post_id>350061</post_id>
+        <post_id>500937</post_id>
+        <post_id>1684809</post_id>
+        <post_id>1688088</post_id>
+        <post_id>1874954</post_id>
+      </post_ids>
+    </aspect>
+    <aspect>
+      <name>Work</name>
+      <post_ids>
+        <post_id>285992</post_id>
+        <post_id>286002</post_id>
+        <post_id>287052</post_id>
+        <post_id>287057</post_id>
+        <post_id>287060</post_id>
+        <post_id>287663</post_id>
+        <post_id>287671</post_id>
+        <post_id>287676</post_id>
+        <post_id>287678</post_id>
+        <post_id>287681</post_id>
+        <post_id>287687</post_id>
+        <post_id>287691</post_id>
+        <post_id>287694</post_id>
+        <post_id>287720</post_id>
+        <post_id>287721</post_id>
+        <post_id>289265</post_id>
+        <post_id>289275</post_id>
+        <post_id>289281</post_id>
+        <post_id>289300</post_id>
+        <post_id>289301</post_id>
+        <post_id>289305</post_id>
+        <post_id>289309</post_id>
+        <post_id>289310</post_id>
+        <post_id>289311</post_id>
+        <post_id>289312</post_id>
+        <post_id>289318</post_id>
+        <post_id>290990</post_id>
+        <post_id>290993</post_id>
+        <post_id>290994</post_id>
+        <post_id>290996</post_id>
+        <post_id>291403</post_id>
+        <post_id>291973</post_id>
+        <post_id>291977</post_id>
+        <post_id>291983</post_id>
+        <post_id>291985</post_id>
+        <post_id>292833</post_id>
+        <post_id>292839</post_id>
+        <post_id>292861</post_id>
+        <post_id>292864</post_id>
+        <post_id>294037</post_id>
+        <post_id>294161</post_id>
+        <post_id>295122</post_id>
+        <post_id>296780</post_id>
+        <post_id>300724</post_id>
+        <post_id>301902</post_id>
+        <post_id>305436</post_id>
+        <post_id>305437</post_id>
+        <post_id>305595</post_id>
+        <post_id>311771</post_id>
+        <post_id>316673</post_id>
+        <post_id>316677</post_id>
+        <post_id>316954</post_id>
+        <post_id>322470</post_id>
+        <post_id>335993</post_id>
+        <post_id>350061</post_id>
+        <post_id>500937</post_id>
+        <post_id>1684809</post_id>
+        <post_id>1688088</post_id>
+        <post_id>1874954</post_id>
+      </post_ids>
+    </aspect>
+    <aspect>
+      <name>Friends</name>
+      <post_ids>
+        <post_id>286002</post_id>
+        <post_id>287052</post_id>
+        <post_id>287057</post_id>
+        <post_id>287060</post_id>
+        <post_id>287663</post_id>
+        <post_id>287671</post_id>
+        <post_id>287676</post_id>
+        <post_id>287678</post_id>
+        <post_id>287681</post_id>
+        <post_id>287687</post_id>
+        <post_id>287691</post_id>
+        <post_id>287694</post_id>
+        <post_id>287720</post_id>
+        <post_id>287721</post_id>
+        <post_id>289265</post_id>
+        <post_id>289275</post_id>
+        <post_id>289281</post_id>
+        <post_id>289300</post_id>
+        <post_id>289301</post_id>
+        <post_id>289305</post_id>
+        <post_id>289309</post_id>
+        <post_id>289310</post_id>
+        <post_id>289311</post_id>
+        <post_id>289312</post_id>
+        <post_id>289318</post_id>
+        <post_id>290990</post_id>
+        <post_id>290993</post_id>
+        <post_id>290994</post_id>
+        <post_id>290996</post_id>
+        <post_id>291403</post_id>
+        <post_id>291973</post_id>
+        <post_id>291977</post_id>
+        <post_id>291983</post_id>
+        <post_id>291985</post_id>
+        <post_id>292833</post_id>
+        <post_id>292839</post_id>
+        <post_id>292861</post_id>
+        <post_id>292864</post_id>
+        <post_id>294037</post_id>
+        <post_id>294161</post_id>
+        <post_id>295122</post_id>
+        <post_id>296780</post_id>
+        <post_id>300724</post_id>
+        <post_id>301902</post_id>
+        <post_id>305436</post_id>
+        <post_id>305437</post_id>
+        <post_id>305595</post_id>
+        <post_id>311771</post_id>
+        <post_id>316673</post_id>
+        <post_id>316677</post_id>
+        <post_id>316954</post_id>
+        <post_id>322470</post_id>
+        <post_id>335993</post_id>
+        <post_id>350061</post_id>
+        <post_id>500937</post_id>
+        <post_id>1684809</post_id>
+        <post_id>1688088</post_id>
+        <post_id>1874954</post_id>
+      </post_ids>
+    </aspect>
+  </aspects>
+  <contacts>
+    <contact>
+      <user_id>83457</user_id>
+      <person_id>29</person_id>
+      <person_guid>4cec13412c17433f2e000015</person_guid>
+      <aspects>
+        <aspect>
+          <name>Friends</name>
+        </aspect>
+      </aspects>
+    </contact>
+    <contact>
+      <user_id>83457</user_id>
+      <person_id>52316</person_id>
+      <person_guid>7371a9e36d9b7d7f</person_guid>
+      <aspects>
+        <aspect>
+          <name>Friends</name>
+        </aspect>
+      </aspects>
+    </contact>
+    <contact>
+      <user_id>83457</user_id>
+      <person_id>63890</person_id>
+      <person_guid>f278309aabb991d2</person_guid>
+      <aspects>
+        <aspect>
+          <name>Friends</name>
+        </aspect>
+      </aspects>
+    </contact>
+  </contacts>
+  <posts>
+    <status_message>
+      <raw_message>I've been here for a year but I still don't know anybody in real life who's on here...</raw_message>
+      <guid>3e9f1c3ec616cfa0</guid>
+      <diaspora_handle>jgputnam@joindiaspora.com</diaspora_handle>
+      <public>false</public>
+      <created_at>2012-08-18 03:18:30 UTC</created_at>
+    </status_message>
+    <status_message>
+      <raw_message>The thing about #newhere is... I don't know.  I'm "newhere".  Which is better than being "nowhere" right?</raw_message>
+      <guid>6b7b619f61f17664</guid>
+      <diaspora_handle>jgputnam@joindiaspora.com</diaspora_handle>
+      <public>false</public>
+      <created_at>2012-06-06 17:43:23 UTC</created_at>
+    </status_message>
+    <status_message>
+      <raw_message>I want this shirt so Ridiculously badly&#xD;
+&#xD;
+http://digitalgravel.myshopify.com/products/never-share-your-plans-t-shirt</raw_message>
+      <guid>d46eb17b65c3d1b5</guid>
+      <diaspora_handle>jgputnam@joindiaspora.com</diaspora_handle>
+      <public>false</public>
+      <created_at>2012-06-05 18:29:45 UTC</created_at>
+    </status_message>
+  </posts>
+  <people>
+    <person>
+      <guid>4cec13412c17433f2e000015</guid>
+      <diaspora_handle>daniel@joindiaspora.com</diaspora_handle>
+      <url>https://joindiaspora.com/</url>
+      <profile>
+        <diaspora_handle>daniel@joindiaspora.com</diaspora_handle>
+        <first_name>Daniel</first_name>
+        <last_name>Grippi</last_name>
+        <image_url>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_large_90a1d9e427d3988ff298.jpg</image_url>
+        <image_url_small>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_90a1d9e427d3988ff298.jpg</image_url_small>
+        <image_url_medium>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_medium_90a1d9e427d3988ff298.jpg</image_url_medium>
+        <birthday>1988-11-17</birthday>
+        <gender>Maleman</gender>
+        <bio>herp derp&#xD;
+&#xD;
+last.fm: http://www.last.fm/user/dangrippi&#xD;
+twitter: @danielgrippi</bio>
+        <location>San Francisco, CA</location>
+        <searchable>true</searchable>
+        <nsfw>false</nsfw>
+        <tag_string>#javascript #ruby #bro #broner #squidge </tag_string>
+      </profile>
+      <exported_key>-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAswbwJ+I7/kDkSGYj9yI6SCnZnA3OWF6rm3XMCzwRhlL4M4mrg4ap
+PdIWKLLu6Q5ONXtHHebUywusuJE+jG776INJldPCnTMMOjOm+N4IVzjOHux0dPox
+RH6Exus3Pz2GjQiVprs+19nqSQhlZ0cQjuT1PVSWxgMGHHPRFN1SdgLkGwWGD6Fe
+lWG3Ij1cz+2A4X6QJAnc0KlIePBa0ADr9G5yduJnRfLzfUqHXyUJiQwTo3tc38p6
+bf77jX542k25gyK72mUHFOTzlZsTnBuXllGynbdZbQuxZKkXWyiaWUKV1fUM7tzv
+lTsQ7tJLqqRn3opTtfL3TkM13x2WI9Au8M1wA+mKh4aEVA1+qKCEmgSjIf1k7KWJ
+czbCzckZQO//WjqV2s8KNYtuEzPU4Ow0tEduWB8I/Ate6nWYjXIAlD55eEHL3Yr5
+lDWzrXBsiNFslDKHChQQZzpiAYIQGDb7cewGrpL5NT7JB1YXNoYh/dBlbPIrXAQM
+f2n0qajAhW75tcyQ1SQVntFYAOJ8ase3mgqm6KqmDW8un73CYYyZ7xcCFnZ5bhtp
+UXpyfxmwaZD5qv4g6haOgIcYwitMNT1q5TyMBVAfjyL3f3O6mDYhd09K0ykZZoyH
+ze+YsDpuytEaSwZgjREZ/8Jy/MIBae3jXn5OJrot0qdw56oHQOEUEpcCAwEAAQ==
+-----END RSA PUBLIC KEY-----
+</exported_key>
+    </person>
+    <person>
+      <guid>7371a9e36d9b7d7f</guid>
+      <diaspora_handle>mathisamicucci@joindiaspora.com</diaspora_handle>
+      <url>https://joindiaspora.com/</url>
+      <profile>
+        <diaspora_handle>mathisamicucci@joindiaspora.com</diaspora_handle>
+        <first_name>mathis</first_name>
+        <last_name>amicucci</last_name>
+        <image_url>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_large_b739d2640a1e8acdeb24.jpg</image_url>
+        <image_url_small>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_b739d2640a1e8acdeb24.jpg</image_url_small>
+        <image_url_medium>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_medium_b739d2640a1e8acdeb24.jpg</image_url_medium>
+        <birthday>1991-07-25</birthday>
+        <gender>M</gender>
+        <bio>I'm studying #physiotherapy in #Ancona I speak #French , #Italian and a bit of English, I like watch #movies and #videos on #Youtube, learn card tricks. &#xD;
+ &#xD;
+- " **I think that INTERNET is one of the most&#xD;
+beautiful/important/amazing things of our century** "&#xD;
+&#xD;
+&#xD;
+PS: I share about news around the world, VIDEOS and what i'm doing&#xD;
+&#xD;
+&#xD;
+### TWITTER :&#xD;
+&#xD;
+[![twitter](http://fc08.deviantart.net/fs25/f/2009/253/7/e/Twitter_icon_by_JebusFist.png)](https://twitter.com/#!/Mathis_Am)&#xD;
+&#xD;
+### E-MAIL :&#xD;
+&#xD;
+[![e-mail](https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcTntRFhZW0fsKy6r9WgsmNn_8RsYhljP5jst3kVMk2roqAiVmUk)](http://img856.imageshack.us/img856/8053/emailrr.jpg)</bio>
+        <location>**Italians who make me proud :**  [![italy](http://www.armysport.it/img/prodotti/16733000.jpg)](http://img90.imageshack.us/img90/5679/progetto.jpg) click on the flag</location>
+        <searchable>true</searchable>
+        <nsfw>false</nsfw>
+        <tag_string>#italy #movies #student #french #physiotherapy </tag_string>
+      </profile>
+      <exported_key>-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAwVfQhSz71FbiScw3V8qwAq9V3pCxJRs6pUxwYPvMp/2ZDIceJXyT
+9mLmct55WcwkmiAu6kT6srZD7AkpyP8n3q15DSHtvL0QjcGAGzZZuZbbQKL8Fsx1
+sPiY2WyQRraAeWAmc0LQtFj1XNf05tHTvkwZeJ9+ujukXdnZ4+W1WFTSgZspay9q
+OV4N9u2tYXMt/c/Z4DzFdkZwniniOmu1IpODZkCQYNYU7CoPfblui0nWhnSe74gB
+Tg9c5yPW+oWVicsgQ188PqzF/uyho7JNVe9KbmPQ8qIltBUudSUcYikFpoTh2Sub
+ZkYhI9EzEMCiKojMddc4QUUmEGPs71RhzXIHaORc/xAQKWrrhjQRaz88nzdZkFtr
+yAdh4KhB/uorlafSSejnNKSYalvxAO1vbqYf3CMQudLGQ4yrIZoOhUkhwZx20Xxu
+3F3a80n4tnjNjg1UYCs5T3k8FSI8UTnrWOjqgmqnT7FRhwnV3eQgWVwa/WbR+pp9
+az5vrfHumlCKeVl+5UGTKefJd9G7n2magmAjDK9YHxeUebsEp20SN1k09IpaNB5H
+G34YsdjLNDcqWFgwXaBzFJxe1eioVVQhuNLYLr6DU8bwDGmNgNHYopkueuXiMDc+
+vVyL2hjRug4BMEi9cigYi04HeTZKoDFQ7jl4d8DCNFiqTpiKMZ/FHt0CAwEAAQ==
+-----END RSA PUBLIC KEY-----
+</exported_key>
+    </person>
+    <person>
+      <guid>f278309aabb991d2</guid>
+      <diaspora_handle>diasporahq@joindiaspora.com</diaspora_handle>
+      <url>https://joindiaspora.com/</url>
+      <profile>
+        <diaspora_handle>diasporahq@joindiaspora.com</diaspora_handle>
+        <first_name>diaspora* HQ</first_name>
+        <last_name></last_name>
+        <image_url>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_large_53bcd26b62b4306b6e9b.png</image_url>
+        <image_url_small>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_small_53bcd26b62b4306b6e9b.png</image_url_small>
+        <image_url_medium>https://joindiaspora.s3.amazonaws.com/uploads/images/thumb_medium_53bcd26b62b4306b6e9b.png</image_url_medium>
+        <gender></gender>
+        <bio>The official diaspora* project account. Follow us to receive all the latest news about updates and events!&#xD;
+&#xD;
+**Talk to us**&#xD;
+- diaspora*: @mention this account to ping us&#xD;
+- Join our [mailing list](http://groups.google.com/group/diaspora-dev) to contact us by email&#xD;
+- IRC: #diaspora or #diaspora-dev on irc.freenode.net&#xD;
+- [Github](https://github.com/diaspora/diaspora) to signal bugs and participate to the code&#xD;
+- [Loomio](https://www.loomio.org/groups/194) to take decision with the community&#xD;
+&#xD;
+**Official blog**&#xD;
+http://blog.diasporafoundation.org/&#xD;
+&#xD;
+**We are social!**&#xD;
+[Facebook](http://www.facebook.com/pages/Join-Diaspora/118635234836351 "Facebook")&#xD;
+[Twitter](http://twitter.com/#!/joindiaspora "Twitter")&#xD;
+[Identi.ca](http://identi.ca/joindiaspora "Identi.ca")&#xD;
+&#xD;
+**Core community team:**&#xD;
+Sean Tilley&#xD;
+*deadsuperhero@joindiaspora.com*&#xD;
+&#xD;
+Jonne Ha&#xDF;&#xD;
+*mrzyx@social.mrzyx.de*&#xD;
+&#xD;
+Florian Staudacher&#xD;
+*raven24@pod.fulll.name*&#xD;
+&#xD;
+Jason Robinson&#xD;
+*jaywink@iliketoast.net*&#xD;
+&#xD;
+Flaburgan&#xD;
+*fla@diaspora-fr.org*&#xD;
+&#xD;
+**Founders:**&#xD;
+Maxwell Salzberg&#xD;
+*maxwell@joindiaspora.com*&#xD;
+&#xD;
+Ilya Zhitomirskiy&#xD;
+*ilya@joindiaspora.com*&#xD;
+&#xD;
+Raphael Sofaer&#xD;
+*raphael@joindiaspora.com*&#xD;
+&#xD;
+Daniel Grippi&#xD;
+*daniel@joindiaspora.com*</bio>
+        <location>all over the globe</location>
+        <searchable>true</searchable>
+        <nsfw>false</nsfw>
+        <tag_string>#kittens #official #account #DIASPORA </tag_string>
+      </profile>
+      <exported_key>-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAs9h6/ZjSHgA6I6RIV2LA8vv/mFKQgCHxUjS+mS2eGYgLchF3QIRB
+y+IOVwY7qh/+D11h0+wK9h9iOSshUVoyfNV4z28g7TayxC2FZmAJG3NAQv8oL/Pu
+Eqx3H3GlvOVAe/URcMPAVCEmRs/7pCKkwj8uv/oL2GE63w9KIoF5XznnQNwenKns
+KM6vnY4wmJN/jiXBmwlywOdGk/ui3WCEiN2GUz+GlXY3cydqyD/BtvrOIoNnzi71
+FWeuwfmUZVMhFhCKUEfynaIyi8ueanmzuyA08ltXCpiiergPwirmsCHbPNvmU1hG
+v5GzspxqvSq+eZ3ZAsU66Sp72pfGPlSlOXR5VRvAcFnvuxGDOjXDFYrSD9B4+oVb
+eXE1Dh19atdjNE1x5BgnkPwtq3ueRGgkTwP9sAc487qaSYjqKR1mH5vvgFyPezWA
+bZtVMopxZKFTY0ThxOUi1guBPEvP1qhxBxYOTZL1YwkXCdQMuS2YyoQoRXyGUn63
+jbjMTbf+izc3x9A1CvzpQbfugs6z3ZrtTEkBeGqfSHslNVgh9VUZXiKmk7qy1iqD
+F9Pi8pvMqe8HaR+4UGUpm15Y+cVcYe+Q4KMGC0eTMmR0JIwPJIu7FLiTY6izMFYw
+4Zb+kLlJ75mlw3ZoBw/d7PZnqfTJh7Isr3z+vQ+tIu4wLOSAt4ghmzUCAwEAAQ==
+-----END RSA PUBLIC KEY-----
+</exported_key>
+    </person>
+  </people>
+</export>
